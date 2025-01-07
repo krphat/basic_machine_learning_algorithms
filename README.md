@@ -79,7 +79,7 @@ Each script outputs the evaluation metrics of the respective model, including ac
 
 Compare the performance of the algorithms to determine the most effective one for the dataset: [**Compare Models**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/compare_models.ipynb)
 
-Submission score in Kaggle: 0.77 (accuracy score = 77%)
+Submission score in Kaggle: **0.77 (accuracy score = 77%)**
 
 
 ## Contributing
