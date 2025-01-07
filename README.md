@@ -23,18 +23,18 @@ This repository is organized as follows:
 ### Data Analysis and Preprocessing
 The Titanic dataset was analyzed and processed to ensure it is suitable for training and evaluation. The preprocessing steps include handling missing values, feature engineering, feature encoding, and scaling. All preprocessing steps are contained in the following file:
 
-- [**Data Preprocessing**]()
+- [**Data Preprocessing**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/data_preprocessing.ipynb)
 
 ### Machine Learning Algorithms
 Each algorithm has been implemented in a separate file. The files include the model training, hyperparameter tuning using GridSearchCV, and evaluation.
 
-- [**Decision Tree**]()
-- [**Random Forest**]()
-- [**Naïve Bayes**]()
-- [**Logistic Regression**]()
-- [**Support Vector Machine (SVM)**]()
-- [**Adaptive Boosting (AdaBoost)**]()
-- [**Gradient Boosting**]()
+- [**Decision Tree**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/TFDF_CART.ipynb)
+- [**Random Forest**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/TFDF_RandomForest.ipynb)
+- [**Naïve Bayes**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/NBC.ipynb)
+- [**Logistic Regression**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/LogisticRegression.ipynb)
+- [**Support Vector Machine (SVM)**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/SVM.ipynb)
+- [**Adaptive Boosting (AdaBoost)**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/AdaBoost.ipynb)
+- [**Gradient Boosting**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/TFDF_GradientBoostedTree.ipynb)
 
 ## Key Features
 
@@ -75,7 +75,12 @@ Make sure you have the following installed:
 
 ## Results
 
-Each script outputs the evaluation metrics of the respective model, including accuracy, precision, recall, F1-score, ROC curve and AUC scores. You can compare the performance of the algorithms to determine the most effective one for the dataset.
+Each script outputs the evaluation metrics of the respective model, including accuracy, precision, recall, F1-score, ROC curve and AUC scores.
+
+Compare the performance of the algorithms to determine the most effective one for the dataset: [**Compare Models**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/compare_models.ipynb)
+
+Submission score in Kaggle: 0.77 (accuracy score = 77%)
+
 
 ## Contributing
 
