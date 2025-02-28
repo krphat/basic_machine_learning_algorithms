@@ -47,7 +47,7 @@ Each algorithm has been implemented in a separate file. The files include the mo
 This project also explores techniques for handling imbalanced data, including:
 - Class Weighting
 - Undersampling & Oversampling
-- Ensemble & Boosting Methods
+- Bagging & Boosting Methods
 
 📌 Find details in: [**handling_imbalanced_data.ipynb**](https://github.com/krphat/basic_machine_learning_algorithms/blob/main/source%20codes/baseline_models_comparison.ipynb)
 
